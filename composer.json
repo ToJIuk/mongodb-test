@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "DB\\": "DB/"
+        }
+    }
+}
