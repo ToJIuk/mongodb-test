@@ -1,10 +1,10 @@
-{"name" : "Vasia", "age" : 30, "city" : "Kiev", "house" : 2}
-{"name" : "Sasha", "age" : 20, "city" : "Zhitomir", "house" : 32}
-{"name":"Natasha", "age":25, "city":"Odessa", "house":4}
-{"name":"Olia", "age":25, "city":"Lvov", "house":11}
+{"name" : "Vasia", "age" : 30, "city" : "Kiev", "house" : 2, "about" : "some text"}
+{"name" : "Sasha", "age" : 20, "city" : "Zhitomir", "house" : 32, "about" : "test"}
+{"name":"Natasha", "age":25, "city":"Odessa", "house":4, "about" : "about"}
+{"name":"Olia", "age":25, "city":"Lvov", "house":11, "about" : "test1"}
 
-{"name" : "Vasia", "age" : 23, "city" : "Kiev", "house" : 12}
-{"name" : "Sasha", "age" : 40, "city" : "Korosten", "house" : 3}
-{"name":"Vika", "age":3, "city":"Irpen", "house":6}
-{"name":"Tolia", "age":25, "city":"Lvov", "house":14}
+{"name" : "Vasia", "age" : 23, "city" : "Kiev", "house" : 12, "about" : "123"}
+{"name" : "Sasha", "age" : 40, "city" : "Korosten", "house" : 3, "about" : "some text1"}
+{"name":"Vika", "age":3, "city":"Irpen", "house":6, "about" : "qwerty"}
+{"name":"Tolia", "age":25, "city":"Lvov", "house":14, "about" : " "}
 

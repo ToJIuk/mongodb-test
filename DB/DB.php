@@ -32,4 +32,9 @@ class DB
         $manager = new Manager($this->connection);
         $manager->executeBulkWrite($this->db . '.users', $bulk);
     }
+
+    public function initIndex()
+    {
+        $this->instance->createIndex(['about' => 'text']);
+    }
 }
